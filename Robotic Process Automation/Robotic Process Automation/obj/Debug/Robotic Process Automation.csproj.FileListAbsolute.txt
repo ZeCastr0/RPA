@@ -1,0 +1,88 @@
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\Robotic Process Automation.exe.config
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\Robotic Process Automation.exe
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\Robotic Process Automation.pdb
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\ClosedXML.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\DocumentFormat.OpenXml.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\ExcelNumberFormat.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\Falco.BancoDados.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\FastMember.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\Newtonsoft.Json.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Data.SqlClient.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.IO.Packaging.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\UtilsNeobetel.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\ClosedXML.pdb
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\ClosedXML.xml
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\DocumentFormat.OpenXml.xml
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\ExcelNumberFormat.xml
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\Falco.BancoDados.xml
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\Newtonsoft.Json.xml
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Data.SqlClient.xml
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic Process Automation.csproj.AssemblyReference.cache
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic Process Automation.csproj.SuggestedBindingRedirects.cache
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic_Process_Automation.Form1.resources
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic_Process_Automation.Properties.Resources.resources
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic Process Automation.csproj.GenerateResource.cache
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic Process Automation.csproj.CoreCompileInputs.cache
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic Process Automation.csproj.CopyComplete
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic Process Automation.exe
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic Process Automation.pdb
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\FontAwesome.Sharp.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\BouncyCastle.Cryptography.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\MimeKit.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\OpenPop.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Buffers.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Memory.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Numerics.Vectors.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\BouncyCastle.Cryptography.xml
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\MimeKit.pdb
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\MimeKit.xml
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\MimeKit.dll.config
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Buffers.xml
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Memory.xml
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Numerics.Vectors.xml
+C:\FALCO\FONTES\NET\RPA\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic Process Automation.csproj.AssemblyReference.cache
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic Process Automation.csproj.SuggestedBindingRedirects.cache
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic Process Automation.exe
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic Process Automation.pdb
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\Robotic Process Automation.exe.config
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\Robotic Process Automation.exe
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\Robotic Process Automation.pdb
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\ClosedXML.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\ExcelNumberFormat.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\Falco.BancoDados.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\FastMember.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\MimeKit.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\OpenPop.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Buffers.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Data.SqlClient.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.IO.Packaging.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Memory.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\UtilsNeobetel.dll
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\ClosedXML.pdb
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\ClosedXML.xml
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\ExcelNumberFormat.xml
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\Falco.BancoDados.xml
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\MimeKit.pdb
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\MimeKit.xml
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\MimeKit.dll.config
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Buffers.xml
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Data.SqlClient.xml
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Memory.xml
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic_Process_Automation.Form1.resources
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic_Process_Automation.Properties.Resources.resources
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic Process Automation.csproj.GenerateResource.cache
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic Process Automation.csproj.CoreCompileInputs.cache
+C:\Users\josei\Desktop\Robotic Process Automation\Robotic Process Automation\obj\Debug\Robotic Process Automation.csproj.CopyComplete
